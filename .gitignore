@@ -1,1 +1,6 @@
 model/*
+cnn_feature_extract.py
+rf_feature_extract.py
+google_repuCheck.py
+config.py
+__*
